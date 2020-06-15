@@ -15,7 +15,8 @@ namespace TeamInfo
         //And Delete a part of another teammate's code
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Hello World");
+            Console.ReadLine();
         }
     }
 }
