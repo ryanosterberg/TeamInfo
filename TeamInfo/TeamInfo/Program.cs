@@ -23,6 +23,8 @@ namespace TeamInfo
             Console.WriteLine("Hello World");
             Console.WriteLine("Hello Earth");
             Console.WriteLine("Hello Universe");
+            Console.WriteLine("Hello Earth");
+            Console.WriteLine("Hello Everyone");
             Console.ReadLine();
         }
     }
