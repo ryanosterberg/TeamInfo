@@ -15,16 +15,17 @@ namespace TeamInfo
         //And Delete a part of another teammate's code
         static void Main(string[] args)
         {
+            Console.WriteLine("Hi World");
             Console.WriteLine("Hello World");
             Console.WriteLine("Hello USA");
             Console.WriteLine("Hello World");
-            Console.WriteLine("Hello World");
+            Console.WriteLine("HI World");
             Console.WriteLine("Hello Earth");
             Console.WriteLine("Hello World");
             Console.WriteLine("Hello Earth");
             Console.WriteLine("Hello Universe");
-            Console.WriteLine("Hello Earth");
-            Console.WriteLine("Hello Everyone");
+            Console.WriteLine("HI Earth");
+            Console.WriteLine("Hi Everyone");
             Console.ReadLine();
         }
     }
