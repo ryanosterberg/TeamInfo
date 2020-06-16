@@ -16,10 +16,10 @@ namespace TeamInfo
         static void Main(string[] args)
         {
             Console.WriteLine("Hi World");
-            Console.WriteLine("Hello World");
+            Console.WriteLine("Hi");
             Console.WriteLine("Hello USA");
             Console.WriteLine("Hello World");
-            Console.WriteLine("HI World");
+            Console.WriteLine("Hi");
             Console.WriteLine("Hello Earth");
             Console.WriteLine("Hello World");
             Console.WriteLine("Hello Earth");
