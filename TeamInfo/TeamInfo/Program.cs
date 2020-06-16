@@ -18,6 +18,11 @@ namespace TeamInfo
             Console.WriteLine("Hello World");
             Console.WriteLine("Hello World");
             Console.WriteLine("Hello World");
+            Console.WriteLine("Hello World");
+            Console.WriteLine("Hello Earth");
+            Console.WriteLine("Hello World");
+            Console.WriteLine("Hello Earth");
+            Console.WriteLine("Hello World");
             Console.ReadLine();
         }
     }
